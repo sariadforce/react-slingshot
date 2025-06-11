@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/about-page.css';
-
+ of this license document, but changing it is not allowed.
 // Since this component is simple and static, there's no parent container for it.
 const AboutPage = () => {
   return (
